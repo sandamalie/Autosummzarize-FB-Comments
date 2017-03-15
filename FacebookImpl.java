@@ -1,3 +1,5 @@
+//fetch comments//
+
 package textsummariationapp;
 
 import facebook4j.Comment;
